@@ -1,2 +1,9 @@
 	KÖVETELMÉNY SPECIFIKÁCIÓ
 
+
+1.1 Leírás
+	Egy olyan szoftver fejlesztése a célunk, amelynek elsõdleges célja a szabadidõ lefoglalása, olyan módszerrel, hogy azt minden korosztály ki
+	tudja élvezni, fiataltól az idõssig. Mindent egybevéve egy nagy, átfogó korosztályt kell lekötnie, amely miatt az ötletek és fejlesztések,
+	nagymértékben korlátozásra kerülnek. A szoftver alacsony kölcségvetésû beruházásnak indul, kezdetekben egy egyszerû asztali alkalmazást
+	várnak tõlünk. Az elvárás az lenne, hogy az idõsek újraélhessék gyerekkoruk egyik legjobb játékát, egy kis nosztalgiázással, a fiatalok
+	pedig betekintést nyerjenek, valamint átérezzék, hogy a technológia honnan fejlõdött ki.
