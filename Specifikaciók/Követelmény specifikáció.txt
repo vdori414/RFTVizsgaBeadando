@@ -7,3 +7,4 @@
 	nagymértékben korlátozásra kerülnek. A szoftver alacsony kölcségvetésû beruházásnak indul, kezdetekben egy egyszerû asztali alkalmazást
 	várnak tõlünk. Az elvárás az lenne, hogy az idõsek újraélhessék gyerekkoruk egyik legjobb játékát, egy kis nosztalgiázással, a fiatalok
 	pedig betekintést nyerjenek, valamint átérezzék, hogy a technológia honnan fejlõdött ki.
+
