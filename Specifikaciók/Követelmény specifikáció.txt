@@ -64,3 +64,9 @@
 
 
 1.7 Követelménylista
+	A rendszer fontos tulajdonságai közé tartozik, hogy a felhasználók különbözõ jogosultságokkal rendelkeznek. Rendkívül fontos az is, hogy a játékot
+	bármely korosztály tagja tudja használni, így nem lehetnek benne olyan elemek, melyek károsak lehetnek a szellemi fejlõdésre.
+	A rendszer használata:
+	A játék megnyitása után, a rendszerbe egy kitalált/fiktív névvel tudnak belépni a játékosok, majd a játékot követõen a játékos által elért pontszám 
+	egy pontösszesítõ táblázatba kerül, melyet bárki, bármikor el tud érni. 
+	
