@@ -39,6 +39,20 @@
 		A kiskorúak és az emberi méltóság védelmérõl és a válaszadás jogáról szóló európai parlamenti és tanácsi ajánlásban (2006/952/EK)8
 		szerepelnek olyan intézkedések, amelyek a kiskorúakra káros, jogellenes internetes tevékenységek elleni küzdelmet és a minõsítéssel
 		vagy besorolással foglalkozó szervek közötti együttmûködést szolgálják.
+	- A videojátékokat egyre inkább használják az iskolai oktatásban is.
+	- Európában valamennyi jelentõsebb játékkonzol-gyártó támogatja a PEGI-rendszert.
+		A fiataloknak jobb védelmet biztosít a nem megfelelõ tartalmat hordozó játékokkal szemben, és segít a szülõknek abban, hogy jobban
+		megértsék az ilyen játékok világában rejlõ lehetséges kockázatokat és veszélyeket.
+	- Személyes és egyéb adatokat a törvényi elõírásoknak megfelelõen és bizalmas kezelése.
+	- Minden, a rendelkezésére álló, technikai és egyéb eszközt igénybe vétele az adatok biztonságos tárolása, õrzése, valamint az adatokkal való
+	  visszaélés megelõzése érdekében.
+	- 307. § (1) A jogosult a hiba felfedezése után a körülmények által lehetõvé tett legrövidebb idõn belül köteles kifogását a kötelezettel
+	  közölni.
+	- A reklámokra vonatkozó korlátok meghatározása során is tekintettel kell lenni a gyermek- és fiatalkorúak védelmére.
+	- A játékszoftver gyártója az olyan játékszoftver forgalmazása esetén, amely alkalmas a tizennyolcadik életévüket be nem töltött személyek
+	  fizikai, szellemi, lelki vagy erkölcsi fejlõdésének kedvezõtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erõszak,
+	  illetve a szexualitás közvetlen, naturális ábrázolása, köteles a „Tizennyolc éven aluliak számára nem ajánlott!” szöveget a játékszoftver
+	  csomagolásán jól észlelhetõ módon feltüntetni.
 
 
 1.5 Jelenlegi üzleti folyamatok modellje
