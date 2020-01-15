@@ -53,6 +53,13 @@
 	  fizikai, szellemi, lelki vagy erkölcsi fejlõdésének kedvezõtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erõszak,
 	  illetve a szexualitás közvetlen, naturális ábrázolása, köteles a „Tizennyolc éven aluliak számára nem ajánlott!” szöveget a játékszoftver
 	  csomagolásán jól észlelhetõ módon feltüntetni.
+	- A játékszoftver gyártója abban az esetben köteles az (5) bekezdésben foglalt kötelezettségnek eleget tenni, ha elõzõleg nem csatlakozott az
+	  Egységes Európai Játékinformációs Rendszerhez (Pan European Game Information - PEGI) és nem alkalmazza a PEGI által megállapított,
+	  korhatár-besorolásra vonatkozó elõírásokat.
+	- Tilos fogyasztói csoportot létrehozni.
+	- Tilos fogyasztói csoportba fogyasztókat nyilvános felhívás útján gyûjteni.
+	- Tilos a gyermek-, illetve fiatalkorúak szerencsejátékban való részvételére felszólító
+reklám
 
 
 
