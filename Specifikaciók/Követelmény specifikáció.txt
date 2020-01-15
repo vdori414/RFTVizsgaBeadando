@@ -21,3 +21,21 @@
 	A mai technológia ezekre a tényekre nem koncentrál, figyelmen kívül hagyja. Játékot fejleszteni, piacra dobni drágább mint valaha. Ma már
 	nincs játék, amely, ha megvesszük a miénk is. Folyamatosan bõvülnek, változnak, fejlõdnek. Az újabb és újabb frissítésekért, verziókért
 	rengetek pénzt is elkérhetnek.
+
+
+1.3 Vágyálom rendszer
+
+
+
+1.4 Rendszerre vonatkozó törvények, szabványok
+	- Korcsoportok szerinti címkézés általi védelem
+		Korcsoportok szerinti besorolásával kapcsolatban egyértelmû tájékoztatásra van szükség.
+	- Elsõsegíti az analitikus és stratégiai készségek fejlõdését, és hozzászoktatja a fiatalokat az információs technológiák interaktív
+	  alkalmazásához.
+	- A politikai döntéshozók felelõsséggel tartoznak a játékosok egészségéért, és a kiskorúak védelmében szigorú elõírásokra van szükség.
+	- A szoftvernek a kiskorúakra gyakorolt erõs pszichológiai hatása miatt, fontos megbizonyosodni arról, hogy ezek a játékok nem jelentenek
+	  veszélyt rájuk nézve.
+	- A gyermekeknek minél jobb védelmet biztosítson, a szubszidiaritás elvét tiszteletben tartva.
+		A kiskorúak és az emberi méltóság védelmérõl és a válaszadás jogáról szóló európai parlamenti és tanácsi ajánlásban (2006/952/EK)8
+		szerepelnek olyan intézkedések, amelyek a kiskorúakra káros, jogellenes internetes tevékenységek elleni küzdelmet és a minõsítéssel
+		vagy besorolással foglalkozó szervek közötti együttmûködést szolgálják.
