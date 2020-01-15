@@ -39,3 +39,14 @@
 		A kiskorúak és az emberi méltóság védelmérõl és a válaszadás jogáról szóló európai parlamenti és tanácsi ajánlásban (2006/952/EK)8
 		szerepelnek olyan intézkedések, amelyek a kiskorúakra káros, jogellenes internetes tevékenységek elleni küzdelmet és a minõsítéssel
 		vagy besorolással foglalkozó szervek közötti együttmûködést szolgálják.
+
+
+1.5 Jelenlegi üzleti folyamatok modellje
+
+
+
+1.6 Igényelt üzleti folyamatok modellje
+
+
+
+1.7 Követelménylista
