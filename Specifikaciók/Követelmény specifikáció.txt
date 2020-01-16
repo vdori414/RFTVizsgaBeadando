@@ -32,6 +32,10 @@
 	karakternek kell szembenéznie több ellenséggel, és így egyre több pontot kell szereznie. Ez alapján létrejöhet egy rangsor, amely a játékkal
 	játszó felhasználók között alakít ki egy ranglistát, annak segítségével, hogy ki hány pontot szerzett, és meddig tudott eljutni a játékban. A
 	felhasználói felület tartalmazzon színekben gazdag elemeket. Azonban ne legyen nagyon színpompás, inkább a letisztultság felé haladjon a szoftver.
+	A játék bonyolultsága fokozatosan a különbözõ szintek segítségével legyen megkülönböztethetõ, azonban a széles korosztály miatt, a kisgyermekekre
+	való tekintettel, opcionális lenne egy nehézségi szint beállítása, amely a kezdetekben lehetne például könnyû, közepes, nehéz. Amennyiben a
+	nehézségi szintet opcionálisan választják ki, azt a rekord listában külön kellene választani. Az aggressziót a lehetõ legkevesebbre szeretnénk
+	csökkenteni, úgy, hogy a játék élvezhetõsége megmaradjon.
 
 
 1.4 Rendszerre vonatkozó törvények, szabványok
