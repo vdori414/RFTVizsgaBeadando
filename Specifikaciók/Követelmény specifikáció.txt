@@ -24,7 +24,14 @@
 
 
 1.3 Vágyálom rendszer
-
+	A szoftver célja egy olyan játék létrehozása, amely kellemes idõtöltést biztosít, durva és erõszakos jelenetektõl mentesen. A programot
+	egyaránt használhatja majd fiatal és idõs, bármely korosztály, aki pár percre, órára ki szeretne kapcsolódni az átlagos hétköznapok között.
+	Egy olyan játékot szeretnénk, amely visszatekint a múlt béli játékok egyikére, és ezzel fel tudja idézni, az akkori játékok lényegét, valamint 
+	megismerteti az embereket egy régi játékkal. A játékosnak egy általuk választott felhasználónév segítségével tudják magukat azonosítani a
+	játékban, majd ezen a néven lesznek láthatók az elért eredményeik. A szoftver tartalmazzon egy fõ karaktert, amelyet a játékos irányít. Ennek a
+	karakternek kell szembenéznie több ellenséggel, és így egyre több pontot kell szereznie. Ez alapján létrejöhet egy rangsor, amely a játékkal
+	játszó felhasználók között alakít ki egy ranglistát, annak segítségével, hogy ki hány pontot szerzett, és meddig tudott eljutni a játékban. A
+	felhasználói felület tartalmazzon színekben gazdag elemeket. Azonban ne legyen nagyon színpompás, inkább a letisztultság felé haladjon a szoftver.
 
 
 1.4 Rendszerre vonatkozó törvények, szabványok
