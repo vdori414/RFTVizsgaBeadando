@@ -69,8 +69,7 @@
 	  korhatár-besorolásra vonatkozó elõírásokat.
 	- Tilos fogyasztói csoportot létrehozni.
 	- Tilos fogyasztói csoportba fogyasztókat nyilvános felhívás útján gyûjteni.
-	- Tilos a gyermek-, illetve fiatalkorúak szerencsejátékban való részvételére felszólító
-reklám
+	- Tilos a gyermek-, illetve fiatalkorúak szerencsejátékban való részvételére felszólító reklám
 
 
 
@@ -92,4 +91,7 @@ reklám
 	A rendszer használata:
 	A játék megnyitása után, a rendszerbe egy kitalált/fiktív névvel tudnak belépni a játékosok, majd a játékot követõen a játékos által elért pontszám 
 	egy pontösszesítõ táblázatba kerül, melyet bárki, bármikor el tud érni. 
-	
+
+
+1.8 Irányított és szabad szöveges riportok szövege
+		
