@@ -100,8 +100,13 @@
 	bármely korosztály tagja tudja használni, így nem lehetnek benne olyan elemek, melyek károsak lehetnek a szellemi fejlõdésre.
 	A rendszer használata:
 	A játék megnyitása után, a rendszerbe egy kitalált/fiktív névvel tudnak belépni a játékosok, majd a játékot követõen a játékos által elért pontszám 
-	egy pontösszesítõ táblázatba kerül, melyet bárki, bármikor el tud érni. 
+	egy pontösszesítõ táblázatba, úgynevezett ranglistába kerül, melyet bárki, bármikor el tud érni. 
 
 
 1.8 Irányított és szabad szöveges riportok szövege
+
+
+1.9 Fogalomszótár
+	Ranglista: Itt tároljuk a játékosok által elért legjobb 10 pontszámot.
+	
 		
