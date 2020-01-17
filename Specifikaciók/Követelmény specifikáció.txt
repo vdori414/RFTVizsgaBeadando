@@ -82,6 +82,11 @@
 
 
 1.6 Igényelt üzleti folyamatok modellje
+	Szabadidõ hasznos eltöltés:
+	Fontos, hogy a gyermekek a szabadidejüket hasznosan töltsék el. A legjobb, ha a szabadban végzik ezt a tevékenységet, de rossz idõ esetén a számítógép is alkalmas
+	lehet a szabadidõ hasznos és kreatív eltöltésére. Éppen ezért egy olyan játékot próbálunk meg fejleszteni a számukra, amely minden ilyen követelménynek megfelel,
+	nem káros a gyermekek pszichológia fejlõdésére. Tehát nem folyik benne vér, nincs benne szó az alkoholról és a kábítószerekrõl.
+
 
 
 
