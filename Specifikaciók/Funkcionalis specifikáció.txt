@@ -2,7 +2,10 @@
 
 
 1.1 Jelenlegi helyzet
-
+	A programmal egy olyan játék létrehozása a célunk, amely visszatekint a múlt béli játékok egyikére, és ezzel bármely korosztály számára élvezhetõvé teszi
+	az ezzel való játékot. Az idõsebbek újraélhetik és felidézhetik gyermekkoruk egyik számítógépes játékát, a fiatalok pedig betekintést nyerhetnek a régi 
+	kikapcsolódás és szórakozás világába. Szeretnénk elkerülni a durva, erõszakos és trágár tartalmakat, a felhasználók szellemi és fizikai képességeinek megõrzése
+	érdekében.
 
 
 1.2 A rendszer celja es nem celja
