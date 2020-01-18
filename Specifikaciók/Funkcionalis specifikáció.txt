@@ -5,7 +5,7 @@
 	A programmal egy olyan játék létrehozása a célunk, amely visszatekint a múlt béli játékok egyikére, és ezzel bármely korosztály számára élvezhetõvé teszi
 	az ezzel való játékot. Az idõsebbek újraélhetik és felidézhetik gyermekkoruk egyik számítógépes játékát, a fiatalok pedig betekintést nyerhetnek a régi 
 	kikapcsolódás és szórakozás világába. Szeretnénk elkerülni a durva, erõszakos és trágár tartalmakat, a felhasználók szellemi és fizikai képességeinek megõrzése
-	érdekében. A játék elinditása után egy menü szükséges, ahol legyen több pont játék inditása, majd a következõ fülön a nehézségek kiválasztása és az eredménytábla.
+	érdekében. A játék elinditása után egy menü szükséges, ahol legyen több pont játék inditása, majd a következõ felületen a nehézségek kiválasztása és az eredménytábla.
 	Beállítások, ahol ki lehessen választani milyen hardverrel szeretnék irányítani a játékot. Az elsõ lépésben egér, billentyûzetre szûkítjük a kört, a késõbbiekben
 	bõvítésre nyitottak maradunk. A fõ menüben a billentyûzet valamint az egér segítségével is ki lehet választani a menü pontokat. A játékban szükséges animációk
 	az élvezetes játék érdekében a pályák/szintek közzött például képernyõ sötétedés/halványosodás. Effektek használata, valamint a hangeffektek különbõzõ esetekben
@@ -13,7 +13,10 @@
 
 
 1.2 A rendszer celja es nem celja
-
+	A rendszer célja, egy olyan számítógépes játék létrehozása, amely durva és erõszakos viselkedéstõl mentes, valamint bármely korosztály számára kellemes kikapcsolódást nyújt.
+	
+	Nem célunk trágár és káromkodásokkal teli szoftvert fejleszteni, valamint erõszakkal és vérrel személtetni az akadályokon való átjutást. Szeretnénk elkerülni a késõbbiekben
+	a játék hatására kialakult fizikai és szellemi traumákat.
 
 
 1.3 Vagyalom rendszer
@@ -23,27 +26,21 @@
 1.4 A rendszerre vonatkozo torvenyek, rendeletek, szabvanyok
 
 
-
-1.5 Jelenlegi üzleti folyamatok modellje
-
-
-
-1.6 Igényelt üzleti folyamatok modellje
+1.5 Képernyõ tervek
+	A képernyõ tervek a Képernyõ tervek címû mappában érhetõk el.
 
 
+1.6 Fogalomszótár
 
-1.7 Követelménylista
+	Menü: Választási lehetõségek listája egy számítógépes programban, amellyel a különféle mûveletek közül választhat a program felhasználója.
 
+	Ranglista, eredménytábla: Egymást követõ elrendezés a mutatott teljesítmény szerint.
 
+	Felület: Az a képernyõ, ahol az adott tartalmakat meg tudjuk jeleníteni.
 
-1.8 Használati esetek
+	Animáció: Mozdulatlan rajzok, tárgyak szerepelnek életszerû mozgással.
 
+	Hangeffekt: Különbözõ hangok, hanghatások, jelzések módja.
 
+	Pályák, szintek: Egymás után következõ nehézségi fokozatok.
 
-1.9 Képernyõ tervek
-
-
-1.10 Forgatókönyvek
-
-
-1.11 Fogalomszótár
