@@ -24,6 +24,22 @@
 
 
 1.4 A rendszerre vonatkozo torvenyek, rendeletek, szabvanyok
+	- Személyes és egyéb adatokat a törvényi elõírásoknak megfelelõen és bizalmas kezelése.
+	- Minden, a rendelkezésére álló, technikai és egyéb eszközt igénybe vétele az adatok biztonságos tárolása, õrzése, valamint az adatokkal való
+	  visszaélés megelõzése érdekében.
+	- 307. § (1) A jogosult a hiba felfedezése után a körülmények által lehetõvé tett legrövidebb idõn belül köteles kifogását a kötelezettel
+	  közölni.
+	- A reklámokra vonatkozó korlátok meghatározása során is tekintettel kell lenni a gyermek- és fiatalkorúak védelmére.
+	- A játékszoftver gyártója az olyan játékszoftver forgalmazása esetén, amely alkalmas a tizennyolcadik életévüket be nem töltött személyek
+	  fizikai, szellemi, lelki vagy erkölcsi fejlõdésének kedvezõtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erõszak,
+	  illetve a szexualitás közvetlen, naturális ábrázolása, köteles a „Tizennyolc éven aluliak számára nem ajánlott!” szöveget a játékszoftver
+	  csomagolásán jól észlelhetõ módon feltüntetni.
+	- A játékszoftver gyártója abban az esetben köteles az (5) bekezdésben foglalt kötelezettségnek eleget tenni, ha elõzõleg nem csatlakozott az
+	  Egységes Európai Játékinformációs Rendszerhez (Pan European Game Information - PEGI) és nem alkalmazza a PEGI által megállapított,
+	  korhatár-besorolásra vonatkozó elõírásokat.
+	- Tilos fogyasztói csoportot létrehozni.
+	- Tilos fogyasztói csoportba fogyasztókat nyilvános felhívás útján gyûjteni.
+	- Tilos a gyermek-, illetve fiatalkorúak szerencsejátékban való részvételére felszólító reklám
 
 
 1.5 Jelenlegi üzleti folyamatok modellje
