@@ -13,7 +13,10 @@
 
 
 1.2 A rendszer celja es nem celja
-
+	A rendszer célja, egy olyan számítógépes játék létrehozása, amely durva és erõszakos viselkedéstõl mentes, valamint bármely korosztály számára kellemes kikapcsolódást nyújt.
+	
+	Nem célunk trágár és káromkodásokkal teli szoftvert fejleszteni, valamint erõszakkal és vérrel személtetni az akadályokon való átjutást. Szeretnénk elkerülni a késõbbiekben
+	a játék hatására kialakult fizikai és szellemi traumákat.
 
 
 1.3 Vagyalom rendszer
