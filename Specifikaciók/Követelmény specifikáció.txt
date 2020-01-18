@@ -104,6 +104,14 @@
 
 
 1.8 Irányított és szabad szöveges riportok szövege
+	Kivitelezõ: Legyen szíves írja le nekem, hogy pontosan mire is van szükségük!
+	Megrendelõ: Mi egy olyan programot szeretnénk, amely egy régi, klasszikus játékot idéz fel. Ezt jelenleg csak számítógépekre szeretnénk kifejleszteni. 
+	Kivitelezõ: Rendben, pontosabban mely korosztály a célközönség?
+	Megrendelõ: Úgy szeretnénk, hogy bármely korosztály számára élvezhetõ legyen a játék.
+	Kivitelezõ: Van-e pontos elképzelésük arról, hogy milyen típusó játékot szeretnének?
+	Megrendelõ: Pontosan még nem tudjuk, de fontos szempont, hogy a játékban ne jelenjen meg a vér, az alkohol és az erõszak. A következõ egyezetetésre megpróbálok valami
+		    konkrét ötlettel elõállni.
+	Kivitelezõ: Rendben, várjuk mihamarabbi jelentkezését!
 
 
 1.9 Fogalomszótár
