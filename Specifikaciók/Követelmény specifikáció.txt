@@ -113,6 +113,19 @@
 		    konkrét ötlettel elõállni.
 	Kivitelezõ: Rendben, várjuk mihamarabbi jelentkezését!
 
+	Következõ alkalommal: 
+	Megrendelõ: Szép napot! Sikerült egyeztetni a vezetõséggel, és arra jutottunk, hogy egy ügyességi játékot szeretnénk.
+	Kivitelezõ: Üdv! Nagyon jó ötlet! Esetleg a karaktereken gondolkoztak-e már?
+	Megrendelõ: Igen, szeretnénk egy fõ karaktert, melyet a felhasználó irányít és emellett több mozgásban lévõ elemet, melyek fenyegetéssel vannak a fõ karakterre.
+	Kivitelezõ: Oké, és milyen mozgásokra gondoltak?
+	Megrendelõ: A felhasználó tudná irányítani a figurát jobbra és balra, valamint a támadó elemekre tudna lõni. Ezek az elemek jobbra, balra valamint lefelé tudnának mozogni.
+	Kivitelezõ: Rendben, legyen regisztráció vagy menü?
+	Megrendelõ: Regisztráció nem szükséges, elég csak egy kitalált névvel bejelentkezni, amellyel nyomon tudja követni a játékos, hogy hány pontot szerzett. 
+		    Ezeket egy ranglistában szeretnénk tárolni, ami a legjobb 10-et mutatja. Ezen kívül szeretnénk egy menüt, ahol ki lehet választani a nehézségi szintet, valamint 
+		    egy beállítások menüpontot, ahol az alapbeállításokat lehet módosítani.
+	Kivitelezõ: Rendben, elsõ körben ennyi információ elegendõ, hogy felépítsük a specifikációt. Mihelyt készen vagyunk vele, továbbítjuk Önök felé, ezt majd tüzetesen olvassák át, 
+		    hogy valóban és pontosan fedi-e az igényeiket. Ha igen, akkor megkezdhetjük a munkát, ha nem, akkor további egyeztetések szükségesek, hogy pontosítsuk a követelményeket.
+
 
 1.9 Fogalomszótár
 	Ranglista: Itt tároljuk a játékosok által elért legjobb 10 pontszámot.
