@@ -36,7 +36,14 @@
 
 
 1.8 Használati esetek
-
+	Szereplõ: Játékos
+	Tevékenységek:
+		- Bejelentkezés játkosként
+		- Nehézségi szint kiválasztása
+		- Alapbeállítások módosítása
+		- Játék
+		- Ranglista megtekintése
+		
 
 1.9 Képernyõ tervek
 	A képernyõ tervek a Képernyõ tervek címû mappában érhetõk el.
