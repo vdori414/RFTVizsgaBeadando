@@ -23,8 +23,11 @@
 1.4 A rendszerre vonatkozo torvenyek, rendeletek, szabvanyok
 
 
+1.5 Képernyõ tervek
+	A képernyõ tervek a Képernyõ tervek címû mappában érhetõk el.
 
-1.5 Fogalomszótár
+
+1.6 Fogalomszótár
 
 	Menü: Választási lehetõségek listája egy számítógépes programban, amellyel a különféle mûveletek közül választhat a program felhasználója.
 
