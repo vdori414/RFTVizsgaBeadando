@@ -40,6 +40,21 @@
 	- Tilos fogyasztói csoportot létrehozni.
 	- Tilos fogyasztói csoportba fogyasztókat nyilvános felhívás útján gyûjteni.
 	- Tilos a gyermek-, illetve fiatalkorúak szerencsejátékban való részvételére felszólító reklám
+	- Korcsoportok szerinti címkézés általi védelem
+		Korcsoportok szerinti besorolásával kapcsolatban egyértelmû tájékoztatásra van szükség.
+	- Elsõsegíti az analitikus és stratégiai készségek fejlõdését, és hozzászoktatja a fiatalokat az információs technológiák interaktív
+	  alkalmazásához.
+	- A politikai döntéshozók felelõsséggel tartoznak a játékosok egészségéért, és a kiskorúak védelmében szigorú elõírásokra van szükség.
+	- A szoftvernek a kiskorúakra gyakorolt erõs pszichológiai hatása miatt, fontos megbizonyosodni arról, hogy ezek a játékok nem jelentenek
+	  veszélyt rájuk nézve.
+	- A gyermekeknek minél jobb védelmet biztosítson, a szubszidiaritás elvét tiszteletben tartva.
+		A kiskorúak és az emberi méltóság védelmérõl és a válaszadás jogáról szóló európai parlamenti és tanácsi ajánlásban (2006/952/EK)8
+		szerepelnek olyan intézkedések, amelyek a kiskorúakra káros, jogellenes internetes tevékenységek elleni küzdelmet és a minõsítéssel
+		vagy besorolással foglalkozó szervek közötti együttmûködést szolgálják.
+	- A videojátékokat egyre inkább használják az iskolai oktatásban is.
+	- Európában valamennyi jelentõsebb játékkonzol-gyártó támogatja a PEGI-rendszert.
+		A fiataloknak jobb védelmet biztosít a nem megfelelõ tartalmat hordozó játékokkal szemben, és segít a szülõknek abban, hogy jobban
+		megértsék az ilyen játékok világában rejlõ lehetséges kockázatokat és veszélyeket.
 
 
 1.5 Jelenlegi üzleti folyamatok modellje
