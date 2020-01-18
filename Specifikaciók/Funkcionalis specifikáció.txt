@@ -24,4 +24,26 @@
 
 
 
-1.5 Fogalomszótár
+1.5 Jelenlegi üzleti folyamatok modellje
+
+
+
+1.6 Igényelt üzleti folyamatok modellje
+
+
+
+1.7 Követelménylista
+
+
+
+1.8 Használati esetek
+
+
+
+1.9 Képernyõ tervek
+
+
+1.10 Forgatókönyvek
+
+
+1.11 Fogalomszótár
