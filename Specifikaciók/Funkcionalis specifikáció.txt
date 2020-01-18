@@ -26,11 +26,23 @@
 1.4 A rendszerre vonatkozo torvenyek, rendeletek, szabvanyok
 
 
-1.5 Képernyõ tervek
+1.5 Jelenlegi üzleti folyamatok modellje
+
+
+1.6 Igényelt üzleti folyamatok modellje
+
+
+1.7 Követelménylista
+
+
+1.8 Használati esetek
+
+
+1.9 Képernyõ tervek
 	A képernyõ tervek a Képernyõ tervek címû mappában érhetõk el.
 
 
-1.6 Fogalomszótár
+1.10 Fogalomszótár
 
 	Menü: Választási lehetõségek listája egy számítógépes programban, amellyel a különféle mûveletek közül választhat a program felhasználója.
 
