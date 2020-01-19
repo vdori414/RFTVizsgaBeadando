@@ -29,3 +29,40 @@ CREATE TABLE Rekordok
 	CONSTRAINT fk_rekordok_nehezsegiszint FOREIGN KEY (NehezsegiszintId)
 	REFERENCES Nehezsegiszint(NehezsegiszintId)
 )
+
+
+CREATE TABLE Vezerlesimod
+(
+	VezerlesimodId INT NOT NULL,
+	Vezerlesmegnevezese VARCHAR2(250) NOT NULL,
+
+	CONSTRAINT pk_vezerlesimod PRIMARY KEY (VezerlesimodId)
+)
+
+
+CREATE TABLE Felbontasok
+(
+	FelbontasId INT NOT NULL,
+	Felbontas VARCHAR2(250) NOT NULL,
+
+	CONSTRAINT pk_felbontasok PRIMARY KEY (FelbontasId)
+)
+
+
+CREATE TABLE Beallitasok
+(
+	BeallitasokdId INT NOT NULL,
+	FelhasznaloId INT NOT NULL,
+	VezerlesimodId INT NOT NULL,
+	Hangero INT NOT NULL,
+	FelbontasIdINT NOT NULL,
+	Arnyekhatas BOOLEEN NOT NULL,
+
+	CONSTRAINT pk_beallitasok PRIMARY KEY (BeallitasokdId),
+	CONSTRAINT fk_beallitasok_felhasznalo FOREIGN KEY (FelhasznaloId)
+	REFERENCES Felhasznalok(FelhasznaloId),
+	CONSTRAINT fk_beallitasok_vezerlesimod FOREIGN KEY (VezerlesimodId)
+	REFERENCES Vezerlesimod(VezerlesimodId)
+	CONSTRAINT fk_beallitasok_felbontasok FOREIGN KEY (FelbontasokId)
+	REFERENCES Felbontasok(FelbontasokId)
+)
