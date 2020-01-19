@@ -65,7 +65,21 @@
 	valamint hasznos is.
 
 1.6 Igényelt üzleti folyamatok modellje
+	Szabadidõ hasznos eltöltés:
+	Fontos, hogy a gyermekek a szabadidejüket hasznosan töltsék el. A legjobb, ha a szabadban végzik ezt a tevékenységet, de rossz idõ esetén a számítógép is alkalmas
+	lehet a szabadidõ hasznos és kreatív eltöltésére. Éppen ezért egy olyan játékot próbálunk meg fejleszteni a számukra, amely minden ilyen követelménynek megfelel,
+	nem káros a gyermekek pszichológia fejlõdésére. Tehát nem folyik benne vér, nincs benne szó az alkoholról és a kábítószerekrõl.
+	
+	Koordinációs készség javítása:
+	Mint már említettük, az egyik legfontosabb dolog számunkra az, hogy a gyermekek fejlõdjenek, miközben játszanak. Az egyik ilyen készség, amely javítható a játék során
+	az a koordinációs készség, mely a mozgó ûrlényke kilövéséhez elengedhetetlen. Az ûrlény nem csak jobbra és balra tud mozogni, hanem közeledik is az ûrhajó felé.
 
+	Koncentrációs készség javítása:
+	A játék során fejlõdik a koncentrációs képessége is a játékosnak. Az ûrlények egyre gyorsabban mozognak a játékidõ elõrehaladásával párhuzamosan.
+
+	A számítógépes program megnyitása után lehetséges a bejelentkezés saját, illetve kitalált/fiktív néven is. A játékos 3 különbözõ szint közül tud választani (könnyû, közepes, nehéz).
+	Alapértelmezetten a könnyû pályával kezdõdik a játék. A játék folyamán fokozatosan nehezedik a játékos dolga, az elemek egyre gyorsabban mozognak, így nagyon fontos a jó koordinációs
+	és koncentrációs készség.	
 
 1.7 Követelménylista
 
