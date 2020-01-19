@@ -72,19 +72,36 @@
 
 1.8 Használati esetek
 	Szereplõ: Játékos
+
 	Tevékenységek:
 		- Bejelentkezés játkosként
+
 		- Nehézségi szint kiválasztása
+
 		- Alapbeállítások módosítása
+
 		- Játék
+
 		- Ranglista megtekintése
 		
+1.9 Forgatókönyv 
 
-1.9 Képernyõ tervek
+Számítógépes felület
+	- Bejelentkezés: A számítógépes program megnyitása után lehetséges a bejelentkezés saját, illetve kitalált/fiktív néven is. 
+			 Nem kötelezõ mindig ugyan azzal a névvel bejelentkezni, de fontos, hogy a rendszer nem követi számon azt, hogy ki/mikor/honnan 
+			 jelentkezett be, ezért a ranglistába nem helyettesíthetõ egyik név sem a másikkal. 
+
+	- Nehézségi szint kiválasztása: A játékos 3 szint közül tud választani (könnyû, közepes, nehéz)
+
+	- Beállítások: A játokos beállíthatja a vezérlési módot (billentyûzet / egér), a felbontást, a hangerõt, valamint az árnyékhatást.
+
+	- Ranglista: A játékot követõen a játékos által elért pontszám egy pontgyûjtõ táblázatba kerül, amely a legjobb 10 játékos által elért pontszámot mutatja.
+
+1.10 Képernyõ tervek
 	A képernyõ tervek a Képernyõ tervek címû mappában érhetõk el.
 
 
-1.10 Fogalomszótár
+1.11 Fogalomszótár
 
 	Menü: Választási lehetõségek listája egy számítógépes programban, amellyel a különféle mûveletek közül választhat a program felhasználója.
 
