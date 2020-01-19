@@ -1,0 +1,31 @@
+CREATE TABLE Felhasznalok
+(
+	FelhasznaloId INT NOT NULL,
+	Nev VARCHAR2(500) NOT NULL,
+
+	CONSTRAINT pk_felhasznalok PRIMARY KEY (FelhasznaloId)
+)
+
+
+CREATE TABLE Nehezsegiszint
+(
+	NehezsegiszintId INT NOT NULL,
+	Szint NVARCHAR(500)  NOT NULL,
+
+	CONSTRAINT pk_nehezsegiszint PRIMARY KEY (NehezsegiszintId)
+)
+
+
+CREATE TABLE Rekordok
+(
+	RekordId INT NOT NULL,
+	FelhasznaloId INT NOT NULL,
+	NehezsegiszintId INT NOT NULL,
+	Elertpont INT NOT NULL,
+	
+	CONSTRAINT pk_rekordok PRIMARY KEY (RekordId),
+	CONSTRAINT fk_rekordok_felhasznalo FOREIGN KEY (FelhasznaloId)
+	REFERENCES Felhasznalok(FelhasznaloId),
+	CONSTRAINT fk_rekordok_nehezsegiszint FOREIGN KEY (NehezsegiszintId)
+	REFERENCES Nehezsegiszint(NehezsegiszintId)
+)
