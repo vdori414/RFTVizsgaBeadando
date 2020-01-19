@@ -58,7 +58,11 @@
 
 
 1.5 Jelenlegi üzleti folyamatok modellje
-
+	Manapság a fiatalok rengeteget ülnek a számítógép elõtt, nagyon szívesen játszanak különbözõ játékokkal. Mindemellett a nap nagy részét teszi ki a telefonon 
+	való chat-elés a barátokkal. Mindezzel semmi baj nincs addig, míg olyan játékokat játszanak, melyek fejleszti valamely képességüket, esetleg a tanulásban
+	kérnek segítséget a barátaiktól az interneten keresztül. Viszont azt vesszük észre, hogy a 14-25 éves korosztály leginkább lövöldözõs, véres játékokat preferálja. 
+	Úgy gondoljuk, hogy ez problémás lehet a késõbbiekben. Ezért szeretnénk egy olyan játékot a piacra dobni, amely minden korosztály számára élvezhetõ, 
+	valamint hasznos is.
 
 1.6 Igényelt üzleti folyamatok modellje
 
