@@ -82,7 +82,16 @@
 	és koncentrációs készség.	
 
 1.7 Követelménylista
+	A rendszer fontos tulajdonságai közé tartozik, hogy a felhasználók különbözõ jogosultságokkal rendelkeznek. Rendkívül fontos az is, hogy a játékot
+	bármely korosztály tagja tudja használni, így nem lehetnek benne olyan elemek, melyek károsak lehetnek a szellemi fejlõdésre.
+	A rendszer használata:
+	A játék megnyitása után, a rendszerbe egy kitalált/fiktív névvel tudnak belépni a játékosok, majd a játékot követõen a játékos által elért pontszám 
+	egy pontösszesítõ táblázatba, úgynevezett ranglistába kerül, melyet bárki, bármikor el tud érni. 
 
+	A rendszer használata a belépéstõl a kilépésig:
+	A számítógépes program megnyitása után kiválasztom a bejelentkezés opciót, ahol egy felhasználónév megadása után 'Játék' gombra kattintok. 
+	Ezután a menüben kiválasztom a számomra megfelelõ beállításokat (nehézségi szint, vezérlési mód, felbontás, hangerõ, árnyékhatás). Ezután kezdõdhet a játék.
+	A játék végén megtekinthetem a 10 legmagasabb pontszámot.
 
 1.8 Használati esetek
 	Szereplõ: Játékos
