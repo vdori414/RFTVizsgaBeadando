@@ -33,9 +33,11 @@
             this.pb_enemy = new System.Windows.Forms.PictureBox();
             this.pb_player = new System.Windows.Forms.PictureBox();
             this.jatekter = new System.Windows.Forms.PictureBox();
+            this.pb_laser = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pb_enemy)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb_player)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.jatekter)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb_laser)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -67,7 +69,7 @@
             this.pb_enemy.BackColor = System.Drawing.Color.Navy;
             this.pb_enemy.BackgroundImage = global::RFT_Jatek.Properties.Resources.enemy;
             this.pb_enemy.Image = global::RFT_Jatek.Properties.Resources.enemy;
-            this.pb_enemy.Location = new System.Drawing.Point(421, 26);
+            this.pb_enemy.Location = new System.Drawing.Point(444, 13);
             this.pb_enemy.Margin = new System.Windows.Forms.Padding(4);
             this.pb_enemy.Name = "pb_enemy";
             this.pb_enemy.Size = new System.Drawing.Size(94, 93);
@@ -81,7 +83,7 @@
             this.pb_player.BackgroundImage = global::RFT_Jatek.Properties.Resources.ship;
             this.pb_player.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pb_player.Image = global::RFT_Jatek.Properties.Resources.ship;
-            this.pb_player.Location = new System.Drawing.Point(396, 489);
+            this.pb_player.Location = new System.Drawing.Point(423, 487);
             this.pb_player.Margin = new System.Windows.Forms.Padding(4);
             this.pb_player.Name = "pb_player";
             this.pb_player.Size = new System.Drawing.Size(139, 127);
@@ -98,12 +100,23 @@
             this.jatekter.TabIndex = 0;
             this.jatekter.TabStop = false;
             // 
+            // pb_laser
+            // 
+            this.pb_laser.BackColor = System.Drawing.Color.DarkRed;
+            this.pb_laser.Location = new System.Drawing.Point(486, 463);
+            this.pb_laser.Margin = new System.Windows.Forms.Padding(4);
+            this.pb_laser.Name = "pb_laser";
+            this.pb_laser.Size = new System.Drawing.Size(13, 30);
+            this.pb_laser.TabIndex = 7;
+            this.pb_laser.TabStop = false;
+            // 
             // JatekForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(982, 653);
+            this.Controls.Add(this.pb_laser);
             this.Controls.Add(this.pb_enemy);
             this.Controls.Add(this.pb_player);
             this.Controls.Add(this.lb_name);
@@ -114,6 +127,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pb_enemy)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb_player)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.jatekter)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb_laser)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -126,5 +140,6 @@
         private System.Windows.Forms.Label lb_name;
         private System.Windows.Forms.PictureBox pb_player;
         private System.Windows.Forms.PictureBox pb_enemy;
+        private System.Windows.Forms.PictureBox pb_laser;
     }
 }
