@@ -51,6 +51,31 @@ namespace RFT_Jatek
             }
         }
 
+        private void JatekForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
 
+        private void JatekForm_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Left &&
+                player.Position.Left - 30 >= jatekter.Left)
+            {
+                player.BalraMozgat(30);
+            }
+
+            else if (e.KeyCode == Keys.Right &&
+                player.Position.Left + 30 + pb_player.Width <= jatekter.Width)
+            {
+                player.JobbraMozgat(30);
+            }
+            else if (e.KeyCode == Keys.Space && !laser.Kilove)
+            {
+                pb_laser.Visible = true;
+                laser.Kilove = true;
+                laser.Position.Top = player.Position.Top;
+                laser.Position.Left = player.Position.Left + pb_player.Width / 2 - pb_laser.Width / 2;
+            }
+        }
     }
 }
