@@ -28,5 +28,24 @@ namespace RFT_Jatek
             get { return hossz; }
             set { hossz = value; }
         }
+
+        private int kilove;
+        public int Kilove
+        {
+            get { return kilove; }
+            set { kilove = value; }
+        }
+
+        public void MozgatFelfele(int value)
+        {
+            Position.Top -= value;
+        }
+
+        public Laser(int Sebzes, int Hossz, Position Position)
+        {
+            this.Sebzes = Sebzes;
+            this.Hossz = Hossz;
+            this.Position = Position;
+        }
     }
 }
