@@ -1,1 +1,9 @@
 D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\bin\Debug\RFT_Jatek.exe.config
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\bin\Debug\RFT_Jatek.exe
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\bin\Debug\RFT_Jatek.pdb
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.csprojResolveAssemblyReference.cache
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.Form1.resources
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.Properties.Resources.resources
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.csproj.GenerateResource.Cache
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.exe
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.pdb

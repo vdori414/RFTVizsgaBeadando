@@ -16,5 +16,17 @@ namespace RFT_Jatek
         {
             InitializeComponent();
         }
+
+        private void tb_name_TextChanged(object sender, EventArgs e)
+        {
+            if (tb_name.Text.Length < 3)
+            {
+                tb_name.ForeColor = Color.Red;
+            }
+            else
+            {
+                tb_name.ForeColor = Color.Black;
+            }
+        }
     }
 }
