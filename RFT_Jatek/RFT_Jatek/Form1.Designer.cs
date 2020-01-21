@@ -66,6 +66,7 @@
             this.tb_name.Name = "tb_name";
             this.tb_name.Size = new System.Drawing.Size(261, 36);
             this.tb_name.TabIndex = 2;
+            this.tb_name.TextChanged += new System.EventHandler(this.tb_name_TextChanged);
             // 
             // btn_Start
             // 
@@ -77,6 +78,7 @@
             this.btn_Start.TabIndex = 0;
             this.btn_Start.Text = "Játék";
             this.btn_Start.UseVisualStyleBackColor = true;
+            this.btn_Start.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 

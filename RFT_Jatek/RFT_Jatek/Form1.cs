@@ -17,6 +17,18 @@ namespace RFT_Jatek
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (tb_name.Text.Length < 3) MessageBox.Show("Érvénytelen név!");
+            else
+            {
+                JatekForm jatek = new JatekForm();
+                jatek.Show();
+
+                this.Hide();
+            }
+        }
+
         private void tb_name_TextChanged(object sender, EventArgs e)
         {
             if (tb_name.Text.Length < 3)
