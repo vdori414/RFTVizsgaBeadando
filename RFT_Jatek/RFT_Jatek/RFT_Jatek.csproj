@@ -94,6 +94,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="obj\Debug\enemy.png" />
     <Content Include="Resources\enemy.png" />
     <Content Include="Resources\ship.png" />
   </ItemGroup>

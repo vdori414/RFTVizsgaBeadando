@@ -28,23 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.jatekter = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.lb_name = new System.Windows.Forms.Label();
+            this.pb_enemy = new System.Windows.Forms.PictureBox();
             this.pb_player = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.jatekter)).BeginInit();
+            this.jatekter = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pb_enemy)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb_player)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.jatekter)).BeginInit();
             this.SuspendLayout();
-            // 
-            // jatekter
-            // 
-            this.jatekter.BackColor = System.Drawing.Color.Navy;
-            this.jatekter.Location = new System.Drawing.Point(13, 13);
-            this.jatekter.Margin = new System.Windows.Forms.Padding(4);
-            this.jatekter.Name = "jatekter";
-            this.jatekter.Size = new System.Drawing.Size(956, 612);
-            this.jatekter.TabIndex = 0;
-            this.jatekter.TabStop = false;
             // 
             // label1
             // 
@@ -70,17 +62,41 @@
             this.lb_name.TabIndex = 4;
             this.lb_name.Text = "-";
             // 
+            // pb_enemy
+            // 
+            this.pb_enemy.BackColor = System.Drawing.Color.Navy;
+            this.pb_enemy.BackgroundImage = global::RFT_Jatek.Properties.Resources.enemy;
+            this.pb_enemy.Image = global::RFT_Jatek.Properties.Resources.enemy;
+            this.pb_enemy.Location = new System.Drawing.Point(421, 26);
+            this.pb_enemy.Margin = new System.Windows.Forms.Padding(4);
+            this.pb_enemy.Name = "pb_enemy";
+            this.pb_enemy.Size = new System.Drawing.Size(94, 93);
+            this.pb_enemy.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pb_enemy.TabIndex = 6;
+            this.pb_enemy.TabStop = false;
+            // 
             // pb_player
             // 
             this.pb_player.BackColor = System.Drawing.Color.Navy;
             this.pb_player.BackgroundImage = global::RFT_Jatek.Properties.Resources.ship;
             this.pb_player.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pb_player.Image = global::RFT_Jatek.Properties.Resources.ship;
-            this.pb_player.Location = new System.Drawing.Point(357, 444);
+            this.pb_player.Location = new System.Drawing.Point(396, 489);
+            this.pb_player.Margin = new System.Windows.Forms.Padding(4);
             this.pb_player.Name = "pb_player";
-            this.pb_player.Size = new System.Drawing.Size(236, 120);
+            this.pb_player.Size = new System.Drawing.Size(139, 127);
             this.pb_player.TabIndex = 5;
             this.pb_player.TabStop = false;
+            // 
+            // jatekter
+            // 
+            this.jatekter.BackColor = System.Drawing.Color.Navy;
+            this.jatekter.Location = new System.Drawing.Point(13, 13);
+            this.jatekter.Margin = new System.Windows.Forms.Padding(4);
+            this.jatekter.Name = "jatekter";
+            this.jatekter.Size = new System.Drawing.Size(956, 612);
+            this.jatekter.TabIndex = 0;
+            this.jatekter.TabStop = false;
             // 
             // JatekForm
             // 
@@ -88,14 +104,16 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(982, 653);
+            this.Controls.Add(this.pb_enemy);
             this.Controls.Add(this.pb_player);
             this.Controls.Add(this.lb_name);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.jatekter);
             this.Name = "JatekForm";
             this.Text = "Játék";
-            ((System.ComponentModel.ISupportInitialize)(this.jatekter)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb_enemy)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pb_player)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.jatekter)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -107,5 +125,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lb_name;
         private System.Windows.Forms.PictureBox pb_player;
+        private System.Windows.Forms.PictureBox pb_enemy;
     }
 }
