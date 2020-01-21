@@ -29,8 +29,8 @@ namespace RFT_Jatek
             set { hossz = value; }
         }
 
-        private int kilove;
-        public int Kilove
+        private bool kilove;
+        public bool Kilove
         {
             get { return kilove; }
             set { kilove = value; }

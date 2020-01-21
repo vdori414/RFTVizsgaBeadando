@@ -22,7 +22,7 @@ namespace RFT_Jatek
             if (tb_name.Text.Length < 3) MessageBox.Show("Érvénytelen név!");
             else
             {
-                JatekForm jatek = new JatekForm();
+                JatekForm jatek = new JatekForm(tb_name.Text);
                 jatek.Show();
 
                 this.Hide();
