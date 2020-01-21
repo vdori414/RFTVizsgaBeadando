@@ -7,3 +7,4 @@ D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\De
 D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.csproj.GenerateResource.Cache
 D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.exe
 D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.pdb
+D:\Dóri\Suli\Egyetem\5.félév\RFT\RFTVizsgaBeadando\RFT_Jatek\RFT_Jatek\obj\Debug\RFT_Jatek.JatekForm.resources
