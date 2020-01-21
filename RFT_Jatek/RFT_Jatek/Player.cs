@@ -73,5 +73,7 @@ namespace RFT_Jatek
         {
             this.Position = Position;
         }
+
+
     }
 }
