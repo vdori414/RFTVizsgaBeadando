@@ -59,6 +59,7 @@
     <Compile Include="JatekForm.Designer.cs">
       <DependentUpon>JatekForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Laser.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Position.cs" />
     <Compile Include="Program.cs" />
