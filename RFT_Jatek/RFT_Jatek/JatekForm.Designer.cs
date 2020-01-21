@@ -31,7 +31,9 @@
             this.jatekter = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.lb_name = new System.Windows.Forms.Label();
+            this.pb_player = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.jatekter)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb_player)).BeginInit();
             this.SuspendLayout();
             // 
             // jatekter
@@ -68,18 +70,32 @@
             this.lb_name.TabIndex = 4;
             this.lb_name.Text = "-";
             // 
+            // pb_player
+            // 
+            this.pb_player.BackColor = System.Drawing.Color.Navy;
+            this.pb_player.BackgroundImage = global::RFT_Jatek.Properties.Resources.ship;
+            this.pb_player.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pb_player.Image = global::RFT_Jatek.Properties.Resources.ship;
+            this.pb_player.Location = new System.Drawing.Point(357, 444);
+            this.pb_player.Name = "pb_player";
+            this.pb_player.Size = new System.Drawing.Size(236, 120);
+            this.pb_player.TabIndex = 5;
+            this.pb_player.TabStop = false;
+            // 
             // JatekForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(982, 653);
+            this.Controls.Add(this.pb_player);
             this.Controls.Add(this.lb_name);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.jatekter);
             this.Name = "JatekForm";
             this.Text = "Játék";
             ((System.ComponentModel.ISupportInitialize)(this.jatekter)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb_player)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -90,5 +106,6 @@
         private System.Windows.Forms.PictureBox jatekter;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lb_name;
+        private System.Windows.Forms.PictureBox pb_player;
     }
 }
